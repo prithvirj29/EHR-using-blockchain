@@ -157,6 +157,24 @@ These images already exist in the repository and showcase the application workfl
 
 ![Patient record](Pictures/Patient%20record.png)
 
+## Image Descriptions
+
+### Image 1: Voice-Driven AI Patient Report Interface
+
+![Doctor Assistant GUI](Pictures/Doctor%20Assistant%20GUI.png)
+
+This screen shows a voice-driven AI-based patient reporting interface used for generating clinical notes. The system allows a doctor to record patient details through speech or manual input and organize them into a structured report. The interface is designed for a lightweight desktop environment and simplifies the process of creating patient records from spoken interactions.
+
+It is especially useful for capturing patient history, prescriptions, and general notes without requiring repetitive manual typing during consultation.
+
+### Image 2: Attached PDF in the Patient Record
+
+![Generated PDF Report](Pictures/Generated%20PDF%20Report.png)
+
+This image shows the generated PDF report attached within the patient record workflow. After the voice-driven AI captures and organizes the consultation details, the system creates a downloadable PDF that can be linked to the patient record as an official report or attachment.
+
+This demonstrates how the patient report is generated, stored, and attached to the medical record so that it can be reviewed, shared, or printed when needed.
+
 ## Useful Links
 
 - Project setup playlist: https://youtube.com/playlist?list=PL54V-i7zW55d1VKxEkp9DCPt5k_zE6m3X
