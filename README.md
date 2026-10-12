@@ -176,8 +176,6 @@ This image shows the generated PDF report attached within the patient record wor
 This demonstrates how the patient report is generated, stored, and attached to the medical record so that it can be reviewed, shared, or printed when needed.
 
 ## Useful Links
-
-- Project setup playlist: https://youtube.com/playlist?list=PL54V-i7zW55d1VKxEkp9DCPt5k_zE6m3X
 - GitHub repository: https://github.com/prithvirj29/EHR-using-blockchain.git
 
 ## Support
