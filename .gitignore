@@ -1,1 +1,33 @@
-node_modules
+# Node / frontend
+node_modules/
+Client/node_modules/
+Client/dist/
+Client/build/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+.env.*
+Server/venv/
+Server/.venv/
+Server/__pycache__/
+
+# Databases and local state
+*.sqlite3
+db.sqlite3
+Server/db.sqlite3
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
